@@ -11,7 +11,7 @@ import java.util.Arrays;
 import test.Light;
 
 public class Game {
-	public static final int WIDTH = 1280, HEIGHT = 720;
+	public static final int WIDTH = 600, HEIGHT = 400;
 	public static final int SCALE = 1;
 	public static boolean useSound = true;
 	ArrayList<Light> lights = new ArrayList<Light>();
